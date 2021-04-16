@@ -9,3 +9,6 @@ Edited with images that work from [Lorem Picsum](https://picsum.photos/images).
 docker build -t <DOCKER_HUB_USERNAME>/myfirstapp
 
 docker run -p 8888:5000 --name myfirstapp <DOCKER_HUB_USERNAME>/myfirstapp
+
+## Slides ##
+You can find some slides at [http://bit.ly/dockerIntro](http://bit.ly/dockerIntro)
